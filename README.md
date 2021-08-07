@@ -24,4 +24,4 @@ For dataset [click here](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcg
 - She would also like to know if factors like age, years at the company and income play a part in determining if people will leave or not.
 
 - For Dataset [click here](https://databudd.com/s/greendestination.csv)
-and Logo [click here](https://databudd.com/s/greendestination-logo.png)
+and for Logo [click here](https://databudd.com/s/greendestination-logo.png)
