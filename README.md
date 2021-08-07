@@ -16,4 +16,4 @@ For dataset [click here](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcg
 
 6- [Discount Mart Analysis and Visualization](https://public.tableau.com/app/profile/rehan.raees/viz/Discount_Mart_16280569209820/Dashboard1): Visualize the data and show i) Yearly sales, profit and quantity sold , ii) How categories are performing and sales in different region , iii) Products per basket/order , assumption: profit is 30% of selling price. For dataset [click here ](https://databudd.com/s/discountmart.csv) and for logo [click here](https://databudd.com/s/Discount-Mart-1.png)
 
-7 - [Covid19 India Viz](https://public.tableau.com/app/profile/rehan.raees/viz/Book1_16281759068740/Covid19_India): [Latest Covid-19 India Statewise Data](https://www.kaggle.com/anandhuh/latest-covid19-india-statewise-data/code) 
+7 - [Covid19 India Viz](https://public.tableau.com/app/profile/rehan.raees/viz/Book1_16281759068740/Covid19_India): Dataset is obtained from Kaggle and visualized it using tableau. Dataset:- [Latest Covid-19 India Statewise Data](https://www.kaggle.com/anandhuh/latest-covid19-india-statewise-data/code) 
