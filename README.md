@@ -22,5 +22,6 @@ For dataset [click here](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcg
 - She would like to figure out any trends or patterns.She has surveyed the staff of Green Destinations and provided you with the data.
 - She would like to know what the attrition rate is (% of people who have left).
 - She would also like to know if factors like age, years at the company and income play a part in determining if people will leave or not.
-Dataset [click here](https://databudd.com/s/greendestination.csv)
-Logo [click here](https://databudd.com/s/greendestination-logo.png)
+
+- For Dataset [click here](https://databudd.com/s/greendestination.csv)
+and Logo [click here](https://databudd.com/s/greendestination-logo.png)
